@@ -1,0 +1,10 @@
+{
+    "name": "utn/new-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {"App\\": "App/"}
+    },
+    "require": {
+        "mathiasverraes/money": "^1.3"
+    }
+}
